@@ -28,7 +28,7 @@
     	 jQuery("#where").autocomplete({
     		source: function (request, response) {
     		 jQuery.getJSON(
-    			"http://gd.geobytes.com/AutoCompleteCity?callback=?&filter=US&template=<geobytes%20city>,%20<geobytes%20code>&q="+request.term,
+    			"https://gd.geobytes.com/AutoCompleteCity?callback=?&filter=US&template=<geobytes%20city>,%20<geobytes%20code>&q="+request.term,
     			function (data) {
     			 response(data);
     			}
@@ -67,7 +67,7 @@
 
     <tr>
     <td class="npl epr"><span class="inwrap"><input class="input_text" type="search" placeholder="example: linux OR python OR mongodb" maxlength="512" style="width:97%" aria-labelledby="what_label_top hidden_colon what_label_bot" name="q" autocomplete="off" id="what"></span><div style="width:250px"><!-- --></div></td>
-    <td class="npl epr"><span class="inwrap"><input class="input_text" type="search" size="15" aria-labelledby="where_label_top hidden_colon where_label_bot" name="l" autocomplete="off" id="where" value="San Jose, CA"></td>
+    <td class="npl epr"><span class="inwrap"><input class="input_text" type="search" size="15" aria-labelledby="where_label_top hidden_colon where_label_bot" name="l" autocomplete="off" id="where"></td>
 
 
     </tr>
