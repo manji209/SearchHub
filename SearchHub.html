@@ -13,13 +13,8 @@
       google.load("maps", "3.x", {callback: initialize, other_params:'sensor=false&libraries=places'});
       function initialize() {
           var input = document.getElementById('where');
-          var options = {
-            types: ['(cities)'],
-            componentRestrictions: {
-              country: $('#country option: selected').val()
-            }
-          };
-          var autocomplete = new google.maps.places.Autocomplete(input, options);
+
+          var autocomplete = new google.maps.places.Autocomplete(input, { types: ['(cities)'], region:'EU' });
           google.maps.event.addListener(autocomplete, 'place_changed', function() {
               var place = autocomplete.getPlace();
               $(input).val(place.address_components[0].long_name + ", " + place.address_components[2].short_name);
@@ -28,7 +23,6 @@
                   return;
               }
               console.log(place);
-
           });
       }
   </script>

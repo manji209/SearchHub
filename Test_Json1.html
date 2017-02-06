@@ -15,6 +15,7 @@
           var autocomplete = new google.maps.places.Autocomplete(input, { types: ['(cities)'], region:'EU' });
           google.maps.event.addListener(autocomplete, 'place_changed', function() {
               var place = autocomplete.getPlace();
+              $(input).val(place.address_components[0].long_name + ", " + place.address_components[2].short_name);
               if (!place.geometry) {
                   console.log('no location');
                   return;
