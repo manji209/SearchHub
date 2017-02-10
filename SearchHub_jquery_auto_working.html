@@ -17,14 +17,15 @@
     $(function () {
       var getData = function (request, response) {
           $.getJSON(
-              "https://manji209.github.io/SearchHub/codes.json?callback=?" + request.term,
+              "https://manji209.github.io/SearchHub/geocodes.json?callback=?" + request.term,
               function (data) {
-                response($.map(data.geocodes, function (item) {
+                var array = $.map(data.geocodes, function (item) {
                   return {
                     label: item.description,
                     value: item.description
-                  };
-                }));
+                  }
+                });
+                response($.ui.autocomplete.filter(array, request.term));
               });
       };
 
