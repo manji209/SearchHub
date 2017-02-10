@@ -1,0 +1,322 @@
+<!DOCTYPE html>
+<html>
+<head>
+   <script type="text/javascript" src="https://code.jquery.com/jquery-1.7.2.min.js" ></script>
+   <script type="text/javascript" src="ConnectJson.js" ></script>
+   <script type="text/javascript" src="Boolsearch.js" ></script>
+<link rel="stylesheet" href="Mystyles.css" type="text/css">
+
+</head>
+<body>
+  <link rel="stylesheet" href="//code.jquery.com/ui/1.12.1/themes/smoothness/jquery-ui.css">
+  <script src="//code.jquery.com/jquery-1.12.4.js"></script>
+  <script src="//code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
+
+    <script type="text/javascript">
+
+    $('#where').autocomplete({
+      source: function (request, response) {
+          $.getJSON("/assets/linkedin_geo_codes.json?term=" + request.term, function (data) {
+              response($.map(data.geocodes, function (value, key) {
+                  return {
+                      codes: value,
+                      description: key
+                  };
+              }));
+          });
+      },
+      minLength: 3,
+      delay: 100
+  });
+    </script>
+<form>
+
+
+
+    <table cellspacing="2" cellpadding="3" width="90%" align="center">
+
+      <colgroup>
+       <col span="1" style="width: 85%;">
+       <col span="1" style="width: 15%;">
+
+    </colgroup>
+
+    <tbody><tr>
+    <td class="npb"><label for="what" id="what_label_top" aria-hidden="true">boolean</label></td>
+    <td class="npb" colspan="2"><label for="where" id="where_label_top" aria-hidden="true">location</label></td>
+    </tr>
+
+    <tr>
+    <td class="npl epr"><span class="inwrap"><input class="input_text" type="search" placeholder="example: linux OR python OR mongodb" maxlength="512" style="width:97%" aria-labelledby="what_label_top hidden_colon what_label_bot" name="q" autocomplete="off" id="what"></span><div style="width:250px"><!-- --></div></td>
+    <td class="npl epr"><span class="inwrap"><input class="input_text" type="search" size="15" aria-labelledby="where_label_top hidden_colon where_label_bot" name="l" autocomplete="off" id="where" value="San Jose, CA"></td>
+
+
+    </tr>
+
+    </tbody></table>
+
+</table>
+</form>
+<br>
+
+<form>
+    <table cellspacing="2" cellpadding="3" width="40%" align="center">
+
+      <colgroup>
+       <col span="1" style="width: 20%;">
+       <col span="1" style="width: 20%;">
+       <col span="1" style="width: 20%;">
+       <col span="1" style="width: 20%;">
+
+    </colgroup>
+
+    <tbody><tr>
+    <td class="logo"><img src=".\assets\github.png" onclick="openTab('github')"></img></td>
+    <td class="logo"><img src=".\assets\indeed.png" onclick="openTab('indeed')"></img></td>
+    <td class="logo"><img src=".\assets\dice.png" onclick="openTab('dice')"></img></td>
+    <td class="logo"><img src=".\assets\google.png" onclick="openTab('google')"></img></td>
+    </tr>
+
+    </tbody></table>
+
+</table>
+</form>
+
+<!-- Start of Tabs window -->
+<main class="o-main">
+  <div class="o-container">
+
+    <div class="o-section">
+<div id="tabs" class="c-tabs no-js">
+        <div class="c-tabs-nav">
+          <a href="#" class="c-tabs-nav__link is-active" id="tab1_title">
+            <i class="fa fa-home"></i>
+            <span>Tab1</span>
+          </a>
+          <a href="#" class="c-tabs-nav__link" id="tab2_title">
+            <i class="fa fa-book"></i>
+            <span>Tab2</span>
+          </a>
+          <a href="#" class="c-tabs-nav__link" id="tab3_title">
+            <i class="fa fa-heart"></i>
+            <span>Tab3</span>
+          </a>
+          <a href="#" class="c-tabs-nav__link" id="tab4_title">
+            <i class="fa fa-calendar"></i>
+            <span>Tab4</span>
+          </a>
+          <a href="#" class="c-tabs-nav__link" id="tab5_title">
+            <i class="fa fa-cog"></i>
+            <span>Tab5</span>
+          </a>
+        </div>
+
+        <div class="c-tab is-active">
+         <div class="c-tab__content">
+           <form action="#" onsubmit="handle(event, 'input1', 'tab1_body', 'tab1_title')">
+               <table cellspacing="2" cellpadding="3" width="90%" align="center">
+
+                 <colgroup>
+                  <col span="1" style="width: 75%;">
+                  <col span="1" style="width: 15%;">
+               </colgroup>
+
+               <tbody><tr>
+               <td class="npb"><label for="what" id="what_label_top" aria-hidden="true">search word</label></td>
+               </tr>
+
+               <tr>
+               <td class="npl epr"><span class="inwrap"><input class="input_text" type="search"  maxlength="512" style="width:97%" aria-labelledby="what_label_top hidden_colon what_label_bot" name="q" autocomplete="off" id="input1" ></span><div style="width:250px"><!-- --></div></td>
+               <td class="npl" style="width:1px" ><span class="inwrapBorder" style="width:100%"><span class="inwrapBorderTop"><button id="fj" onclick="getWords('input1', 'tab1_body', 'tab1_title')" type="button" class="input_submit" >GO</button></span></span></td>
+               </tr>
+
+               </tr>
+
+
+               </tbody></table>
+
+           </table>
+           </form>
+
+           <p id="tab1_body"></p>
+
+           </script>
+
+         </div>
+       </div>
+       <div class="c-tab">
+         <div class="c-tab__content">
+
+           <form action="#" onsubmit="handle(event, 'input2', 'tab2_body', 'tab2_title')">
+               <table cellspacing="2" cellpadding="3" width="90%" align="center">
+
+                 <colgroup>
+                  <col span="1" style="width: 75%;">
+                  <col span="1" style="width: 15%;">
+               </colgroup>
+
+               <tbody><tr>
+               <td class="npb"><label for="what" id="what_label_top" aria-hidden="true">search word</label></td>
+               </tr>
+
+               <tr>
+               <td class="npl epr"><span class="inwrap"><input class="input_text" type="search" placeholder="example: linux OR python OR mongodb" maxlength="512" style="width:97%" aria-labelledby="what_label_top hidden_colon what_label_bot" name="q" autocomplete="off" id="input2"></span><div style="width:250px"><!-- --></div></td>
+               <td class="npl" style="width:1px" ><span class="inwrapBorder" style="width:100%"><span class="inwrapBorderTop"><button id="fj" onclick="getWords('input2', 'tab2_body', 'tab2_title')" type="button" class="input_submit" >GO</button></span></span></td>
+               </tr>
+
+               </tr>
+
+
+               </tbody></table>
+
+           </table>
+           </form>
+
+           <p id="tab2_body"></p>
+
+
+         </div>
+       </div>
+       <div class="c-tab">
+         <div class="c-tab__content">
+           <form action="#" onsubmit="handle(event, 'input3', 'tab3_body', 'tab3_title')">
+               <table cellspacing="2" cellpadding="3" width="90%" align="center">
+
+                 <colgroup>
+                  <col span="1" style="width: 75%;">
+                  <col span="1" style="width: 15%;">
+               </colgroup>
+
+               <tbody><tr>
+               <td class="npb"><label for="what" id="what_label_top" aria-hidden="true">search word</label></td>
+               </tr>
+
+               <tr>
+               <td class="npl epr"><span class="inwrap"><input class="input_text" type="search" placeholder="example: linux OR python OR mongodb" maxlength="512" style="width:97%" aria-labelledby="what_label_top hidden_colon what_label_bot" name="q" autocomplete="off" id="input3"></span><div style="width:250px"><!-- --></div></td>
+               <td class="npl" style="width:1px" ><span class="inwrapBorder" style="width:100%"><span class="inwrapBorderTop"><button id="fj" onclick="getWords('input3', 'tab3_body', 'tab3_title')" type="button" class="input_submit" >GO</button></span></span></td>
+               </tr>
+
+               </tr>
+
+
+               </tbody></table>
+
+           </table>
+           </form>
+
+           <p id="tab3_body"></p>
+
+
+
+         </div>
+       </div>
+       <div class="c-tab">
+         <div class="c-tab__content">
+           <form action="#" onsubmit="handle(event, 'input4', 'tab4_body', 'tab4_title')">
+               <table cellspacing="2" cellpadding="3" width="90%" align="center">
+
+                 <colgroup>
+                  <col span="1" style="width: 75%;">
+                  <col span="1" style="width: 15%;">
+               </colgroup>
+
+               <tbody><tr>
+               <td class="npb"><label for="what" id="what_label_top" aria-hidden="true">search word</label></td>
+               </tr>
+
+               <tr>
+               <td class="npl epr"><span class="inwrap"><input class="input_text" type="search" placeholder="example: linux OR python OR mongodb" maxlength="512" style="width:97%" aria-labelledby="what_label_top hidden_colon what_label_bot" name="q" autocomplete="off" id="input4"></span><div style="width:250px"><!-- --></div></td>
+               <td class="npl" style="width:1px" ><span class="inwrapBorder" style="width:100%"><span class="inwrapBorderTop"><button id="fj" onclick="getWords('input4', 'tab4_body', 'tab4_title')" type="button" class="input_submit" >GO</button></span></span></td>
+               </tr>
+
+               </tr>
+
+
+               </tbody></table>
+
+           </table>
+           </form>
+           <p id="tab4_body"></p>
+         </div>
+       </div>
+       <div class="c-tab">
+         <div class="c-tab__content">
+           <form action="#" onsubmit="handle(event, 'input5', 'tab5_body', 'tab5_title')">
+               <table cellspacing="2" cellpadding="3" width="90%" align="center">
+
+                 <colgroup>
+                  <col span="1" style="width: 75%;">
+                  <col span="1" style="width: 15%;">
+               </colgroup>
+
+               <tbody><tr>
+               <td class="npb"><label for="what" id="what_label_top" aria-hidden="true">search word</label></td>
+               </tr>
+
+               <tr>
+               <td class="npl epr"><span class="inwrap"><input class="input_text" type="search" placeholder="example: linux OR python OR mongodb" maxlength="512" style="width:97%" aria-labelledby="what_label_top hidden_colon what_label_bot" name="q" autocomplete="off" id="input5"></span><div style="width:250px"><!-- --></div></td>
+               <td class="npl" style="width:1px" ><span class="inwrapBorder" style="width:100%"><span class="inwrapBorderTop"><button id="fj" onclick="getWords('input5', 'tab5_body', 'tab5_title')" type="button" class="input_submit" >GO</button></span></span></td>
+               </tr>
+
+               </tr>
+
+
+               </tbody></table>
+
+           </table>
+           </form>
+           <p id="tab5_body"></p>
+
+         </div>
+       </div>
+
+
+     </div>
+   </div>
+
+ <div class="o-section">
+   <div id="github-icons"></div>
+ </div>
+</div>
+</main>
+
+<script>
+    function openTab(website){
+      var boolsearch = document.getElementById("what").value;
+      var loc = document.getElementById("where").value;
+      openSearch(website, boolsearch, loc);
+
+    }
+
+</script>
+
+<!-- Function to handle enter key event in search box's -->
+<script>
+    function handle(e, input1, tab1_body, tab_title){
+        e.preventDefault(); // Otherwise the form will be submitted
+        getWords(input1, tab1_body, tab_title);
+
+    }
+</script>
+
+<!-- Calls jquery $.get() in ConnectJson.js to get keywords -->
+<script>
+function getWords(input1, tab1_body, tab_title){
+  var search_word = document.getElementById(input1).value;
+  document.getElementById(tab_title).innerHTML = search_word;
+  testBox(search_word, tab1_body);
+}
+</script>
+
+<!-- Calls Tabs.js to build the Tabbed view/window -->
+<script src="Tabs.js"></script>
+<script>
+  var myTabs = tabs({
+    el: '#tabs',
+    tabNavigationLinks: '.c-tabs-nav__link',
+    tabContentContainers: '.c-tab'
+  });
+  myTabs.init();
+</script>
+</body>
+</html>
