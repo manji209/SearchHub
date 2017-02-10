@@ -1,0 +1,1892 @@
+{
+    "geocodes": [
+        {
+            "code": "af",
+            "description": "Africa"
+        },
+        {
+            "code": "af.dz",
+            "description": "Algeria"
+        },
+        {
+            "code": "af.cm",
+            "description": "Cameroon"
+        },
+        {
+            "code": "af.eg",
+            "description": "Egypt"
+        },
+        {
+            "code": "af.gh",
+            "description": "Ghana"
+        },
+        {
+            "code": "af.ke",
+            "description": "Kenya"
+        },
+        {
+            "code": "af.ma",
+            "description": "Morocco"
+        },
+        {
+            "code": "af.ng",
+            "description": "Nigeria"
+        },
+        {
+            "code": "af.za",
+            "description": "South Africa"
+        },
+        {
+            "code": "af.za.*.5852",
+            "description": "Cape Town Area, South Africa"
+        },
+        {
+            "code": "af.za.*.5855",
+            "description": "Durban Area, South Africa"
+        },
+        {
+            "code": "af.za.*.5862",
+            "description": "Johannesburg Area, South Africa"
+        },
+        {
+            "code": "af.tz",
+            "description": "Tanzania"
+        },
+        {
+            "code": "af.tn",
+            "description": "Tunisia"
+        },
+        {
+            "code": "af.ug",
+            "description": "Uganda"
+        },
+        {
+            "code": "af.zw",
+            "description": "Zimbabwe"
+        },
+        {
+            "code": "aq",
+            "description": "Antarctica"
+        },
+        {
+            "code": "as",
+            "description": "Asia"
+        },
+        {
+            "code": "as.bd",
+            "description": "Bangladesh"
+        },
+        {
+            "code": "as.cn",
+            "description": "China"
+        },
+        {
+            "code": "as.cn.*.8911",
+            "description": "Beijing City, China"
+        },
+        {
+            "code": "as.cn.*.8919",
+            "description": "Guangzhou, Guangdong, China"
+        },
+        {
+            "code": "as.cn.*.8909",
+            "description": "Shanghai City, China"
+        },
+        {
+            "code": "as.cn.*.8910",
+            "description": "Shenzhen, Guangdong, China"
+        },
+        {
+            "code": "as.hk",
+            "description": "Hong Kong"
+        },
+        {
+            "code": "as.in",
+            "description": "India"
+        },
+        {
+            "code": "as.in.an",
+            "description": "Andaman & Nicobar Islands"
+        },
+        {
+            "code": "as.in.ap",
+            "description": "Andhra Pradesh"
+        },
+        {
+            "code": "as.in.ap.6508",
+            "description": "Hyderabad Area, India"
+        },
+        {
+            "code": "as.in.ar",
+            "description": "Arunachal Pradesh"
+        },
+        {
+            "code": "as.in.as",
+            "description": "Assam"
+        },
+        {
+            "code": "as.in.br",
+            "description": "Bihar"
+        },
+        {
+            "code": "as.in.ch",
+            "description": "Chandigarh"
+        },
+        {
+            "code": "as.in.cg",
+            "description": "Chattisgarh"
+        },
+        {
+            "code": "as.in.dn",
+            "description": "Dadra& Nagar Haveli"
+        },
+        {
+            "code": "as.in.dd",
+            "description": "Daman & Diu"
+        },
+        {
+            "code": "as.in.dl",
+            "description": "Delhi"
+        },
+        {
+            "code": "as.in.ga",
+            "description": "Goa"
+        },
+        {
+            "code": "as.in.gj",
+            "description": "Gujarat"
+        },
+        {
+            "code": "as.in.gj.7065",
+            "description": "Ahmedabad Area, India"
+        },
+        {
+            "code": "as.in.gj.6552",
+            "description": "Vadodara Area, India"
+        },
+        {
+            "code": "as.in.hr",
+            "description": "Haryana"
+        },
+        {
+            "code": "as.in.hr.7391",
+            "description": "Gurgaon, India"
+        },
+        {
+            "code": "as.in.hr.7151",
+            "description": "New Delhi Area, India"
+        },
+        {
+            "code": "as.in.hp",
+            "description": "Himachal Pradesh"
+        },
+        {
+            "code": "as.in.jk",
+            "description": "Jammu & Kashmir"
+        },
+        {
+            "code": "as.in.jh",
+            "description": "Jharkhand"
+        },
+        {
+            "code": "as.in.ka",
+            "description": "Karnataka"
+        },
+        {
+            "code": "as.in.ka.7127",
+            "description": "Bengaluru Area, India"
+        },
+        {
+            "code": "as.in.kl",
+            "description": "Kerala"
+        },
+        {
+            "code": "as.in.kl.6477",
+            "description": "Cochin Area, India"
+        },
+        {
+            "code": "as.in.ld",
+            "description": "Lakshadweep"
+        },
+        {
+            "code": "as.in.mp",
+            "description": "Madhya Pradesh"
+        },
+        {
+            "code": "as.in.mp.7382",
+            "description": "Indore Area, India"
+        },
+        {
+            "code": "as.in.mh",
+            "description": "Maharashtra"
+        },
+        {
+            "code": "as.in.mh.7150",
+            "description": "Mumbai Area, India"
+        },
+        {
+            "code": "as.in.mh.6751",
+            "description": "Nagpur Area, India"
+        },
+        {
+            "code": "as.in.mh.7350",
+            "description": "Pune Area, India"
+        },
+        {
+            "code": "as.in.mn",
+            "description": "Manipur"
+        },
+        {
+            "code": "as.in.ml",
+            "description": "Meghalaya"
+        },
+        {
+            "code": "as.in.mz",
+            "description": "Mizoram"
+        },
+        {
+            "code": "as.in.nl",
+            "description": "Nagaland"
+        },
+        {
+            "code": "as.in.or",
+            "description": "Orissa"
+        },
+        {
+            "code": "as.in.py",
+            "description": "Pondicherry"
+        },
+        {
+            "code": "as.in.pb",
+            "description": "Punjab"
+        },
+        {
+            "code": "as.in.pb.6879",
+            "description": "Chandigarh Area, India"
+        },
+        {
+            "code": "as.in.rj",
+            "description": "Rajasthan"
+        },
+        {
+            "code": "as.in.rj.7287",
+            "description": "Jaipur Area, India"
+        },
+        {
+            "code": "as.in.sk",
+            "description": "Sikkim"
+        },
+        {
+            "code": "as.in.tn",
+            "description": "Tamil Nadu"
+        },
+        {
+            "code": "as.in.tn.6891",
+            "description": "Chennai Area, India"
+        },
+        {
+            "code": "as.in.tn.6472",
+            "description": "Coimbatore Area, India"
+        },
+        {
+            "code": "as.in.tr",
+            "description": "Tripura"
+        },
+        {
+            "code": "as.in.up",
+            "description": "Uttar Pradesh"
+        },
+        {
+            "code": "as.in.up.7093",
+            "description": "Lucknow Area, India"
+        },
+        {
+            "code": "as.in.up.7392",
+            "description": "Noida Area, India"
+        },
+        {
+            "code": "as.in.ul",
+            "description": "Uttarakhand"
+        },
+        {
+            "code": "as.in.wb",
+            "description": "West Bengal"
+        },
+        {
+            "code": "as.in.wb.7003",
+            "description": "Kolkata Area, India"
+        },
+        {
+            "code": "as.id",
+            "description": "Indonesia"
+        },
+        {
+            "code": "as.id.*.8594",
+            "description": "Greater Jakarta Area, Indonesia"
+        },
+        {
+            "code": "as.jp",
+            "description": "Japan"
+        },
+        {
+            "code": "as.kr",
+            "description": "Korea"
+        },
+        {
+            "code": "as.kr.*.7700",
+            "description": "Gangnam-gu, Seoul, Korea"
+        },
+        {
+            "code": "as.my",
+            "description": "Malaysia"
+        },
+        {
+            "code": "as.my.*.7960",
+            "description": "Kuala Lumpur, Malaysia"
+        },
+        {
+            "code": "as.my.*.7945",
+            "description": "Selangor, Malaysia"
+        },
+        {
+            "code": "as.np",
+            "description": "Nepal"
+        },
+        {
+            "code": "as.ph",
+            "description": "Philippines"
+        },
+        {
+            "code": "as.sg",
+            "description": "Singapore"
+        },
+        {
+            "code": "as.lk",
+            "description": "Sri Lanka"
+        },
+        {
+            "code": "as.tw",
+            "description": "Taiwan"
+        },
+        {
+            "code": "as.th",
+            "description": "Thailand"
+        },
+        {
+            "code": "as.vn",
+            "description": "Vietnam"
+        },
+        {
+            "code": "eu",
+            "description": "Europe"
+        },
+        {
+            "code": "eu.at",
+            "description": "Austria"
+        },
+        {
+            "code": "eu.be",
+            "description": "Belgium"
+        },
+        {
+            "code": "eu.be.*.4918",
+            "description": "Antwerp Area, Belgium"
+        },
+        {
+            "code": "eu.be.*.4920",
+            "description": "Brussels Area, Belgium"
+        },
+        {
+            "code": "eu.bg",
+            "description": "Bulgaria"
+        },
+        {
+            "code": "eu.hr",
+            "description": "Croatia"
+        },
+        {
+            "code": "eu.cz",
+            "description": "Czech Republic"
+        },
+        {
+            "code": "eu.dk",
+            "description": "Denmark"
+        },
+        {
+            "code": "eu.dk.*.5038",
+            "description": "Copenhagen Area, Denmark"
+        },
+        {
+            "code": "eu.dk.*.5041",
+            "description": "Odense Area, Denmark"
+        },
+        {
+            "code": "eu.dk.*.5044",
+            "description": "\u00c5lborg Area, Denmark"
+        },
+        {
+            "code": "eu.dk.*.5045",
+            "description": "\u00c5rhus Area, Denmark"
+        },
+        {
+            "code": "eu.fi",
+            "description": "Finland"
+        },
+        {
+            "code": "eu.fr",
+            "description": "France"
+        },
+        {
+            "code": "eu.fr.*.5205",
+            "description": "Lille Area, France"
+        },
+        {
+            "code": "eu.fr.*.5210",
+            "description": "Lyon Area, France"
+        },
+        {
+            "code": "eu.fr.*.5211",
+            "description": "Marseille Area, France"
+        },
+        {
+            "code": "eu.fr.*.5221",
+            "description": "Nice Area, France"
+        },
+        {
+            "code": "eu.fr.*.5227",
+            "description": "Paris Area, France"
+        },
+        {
+            "code": "eu.fr.*.5249",
+            "description": "Toulouse Area, France"
+        },
+        {
+            "code": "eu.de",
+            "description": "Germany"
+        },
+        {
+            "code": "eu.de.*.4953",
+            "description": "Cologne Area, Germany"
+        },
+        {
+            "code": "eu.de.*.4966",
+            "description": "Frankfurt Am Main Area, Germany"
+        },
+        {
+            "code": "eu.de.*.5000",
+            "description": "Munich Area, Germany"
+        },
+        {
+            "code": "eu.gr",
+            "description": "Greece"
+        },
+        {
+            "code": "eu.hu",
+            "description": "Hungary"
+        },
+        {
+            "code": "eu.ie",
+            "description": "Ireland"
+        },
+        {
+            "code": "eu.it",
+            "description": "Italy"
+        },
+        {
+            "code": "eu.it.*.5587",
+            "description": "Bologna Area, Italy"
+        },
+        {
+            "code": "eu.it.*.5616",
+            "description": "Milan Area, Italy"
+        },
+        {
+            "code": "eu.it.*.5636",
+            "description": "Rome Area, Italy"
+        },
+        {
+            "code": "eu.it.*.5652",
+            "description": "Turin Area, Italy"
+        },
+        {
+            "code": "eu.it.*.5657",
+            "description": "Venice Area, Italy"
+        },
+        {
+            "code": "eu.lt",
+            "description": "Lithuania"
+        },
+        {
+            "code": "eu.nl",
+            "description": "Netherlands"
+        },
+        {
+            "code": "eu.nl.*.5663",
+            "description": "Almere Stad Area, Netherlands"
+        },
+        {
+            "code": "eu.nl.*.5664",
+            "description": "Amsterdam Area, Netherlands"
+        },
+        {
+            "code": "eu.nl.*.5665",
+            "description": "Apeldoorn Area, Netherlands"
+        },
+        {
+            "code": "eu.nl.*.5906",
+            "description": "Breda Area, Netherlands"
+        },
+        {
+            "code": "eu.nl.*.5668",
+            "description": "Eindhoven Area, Netherlands"
+        },
+        {
+            "code": "eu.nl.*.5669",
+            "description": "Enschede Area, Netherlands"
+        },
+        {
+            "code": "eu.nl.*.5673",
+            "description": "Groningen Area, Netherlands"
+        },
+        {
+            "code": "eu.nl.*.5681",
+            "description": "Nijmegen Area, Netherlands"
+        },
+        {
+            "code": "eu.nl.*.5908",
+            "description": "Rotterdam Area, Netherlands"
+        },
+        {
+            "code": "eu.nl.*.5688",
+            "description": "The Hague Area, Netherlands"
+        },
+        {
+            "code": "eu.nl.*.5907",
+            "description": "Tilburg Area, Netherlands"
+        },
+        {
+            "code": "eu.nl.*.5690",
+            "description": "Utrecht Area, Netherlands"
+        },
+        {
+            "code": "eu.no",
+            "description": "Norway"
+        },
+        {
+            "code": "eu.no.*.5712",
+            "description": "Oslo Area, Norway"
+        },
+        {
+            "code": "eu.pl",
+            "description": "Poland"
+        },
+        {
+            "code": "eu.pt",
+            "description": "Portugal"
+        },
+        {
+            "code": "eu.pt.*.7405",
+            "description": "Lisbon Area, Portugal"
+        },
+        {
+            "code": "eu.pt.*.7397",
+            "description": "Porto Area, Portugal"
+        },
+        {
+            "code": "eu.ro",
+            "description": "Romania"
+        },
+        {
+            "code": "eu.ru",
+            "description": "Russian Federation"
+        },
+        {
+            "code": "eu.rs",
+            "description": "Serbia"
+        },
+        {
+            "code": "eu.sk",
+            "description": "Slovak Republic"
+        },
+        {
+            "code": "eu.es",
+            "description": "Spain"
+        },
+        {
+            "code": "eu.es.*.5064",
+            "description": "Barcelona Area, Spain"
+        },
+        {
+            "code": "eu.es.*.5113",
+            "description": "Madrid Area, Spain"
+        },
+        {
+            "code": "eu.se",
+            "description": "Sweden"
+        },
+        {
+            "code": "eu.ch",
+            "description": "Switzerland"
+        },
+        {
+            "code": "eu.ch.*.4930",
+            "description": "Geneva Area, Switzerland"
+        },
+        {
+            "code": "eu.ch.*.4938",
+            "description": "Z\u00fcrich Area, Switzerland"
+        },
+        {
+            "code": "eu.tr",
+            "description": "Turkey"
+        },
+        {
+            "code": "eu.tr.*.7585",
+            "description": "Istanbul, Turkey"
+        },
+        {
+            "code": "eu.ua",
+            "description": "Ukraine"
+        },
+        {
+            "code": "eu.gb",
+            "description": "United Kingdom"
+        },
+        {
+            "code": "eu.gb.*.4544",
+            "description": "Birmingham, United Kingdom"
+        },
+        {
+            "code": "eu.gb.*.4550",
+            "description": "Brighton, United Kingdom"
+        },
+        {
+            "code": "eu.gb.*.4552",
+            "description": "Bristol, United Kingdom"
+        },
+        {
+            "code": "eu.gb.*.4555",
+            "description": "Cambridge, United Kingdom"
+        },
+        {
+            "code": "eu.gb.*.4558",
+            "description": "Chelmsford, United Kingdom"
+        },
+        {
+            "code": "eu.gb.*.4562",
+            "description": "Coventry, United Kingdom"
+        },
+        {
+            "code": "eu.gb.*.4574",
+            "description": "Edinburgh, United Kingdom"
+        },
+        {
+            "code": "eu.gb.*.4579",
+            "description": "Glasgow, United Kingdom"
+        },
+        {
+            "code": "eu.gb.*.4580",
+            "description": "Gloucester, United Kingdom"
+        },
+        {
+            "code": "eu.gb.*.4582",
+            "description": "Guildford, United Kingdom"
+        },
+        {
+            "code": "eu.gb.*.4583",
+            "description": "Harrow, United Kingdom"
+        },
+        {
+            "code": "eu.gb.*.4586",
+            "description": "Hemel Hempstead, United Kingdom"
+        },
+        {
+            "code": "eu.gb.*.4597",
+            "description": "Kingston upon Thames, United Kingdom"
+        },
+        {
+            "code": "eu.gb.*.4606",
+            "description": "Leeds, United Kingdom"
+        },
+        {
+            "code": "eu.gb.*.4603",
+            "description": "Leicester, United Kingdom"
+        },
+        {
+            "code": "eu.gb.*.4573",
+            "description": "London, United Kingdom"
+        },
+        {
+            "code": "eu.gb.*.4608",
+            "description": "Manchester, United Kingdom"
+        },
+        {
+            "code": "eu.gb.*.4610",
+            "description": "Milton Keynes, United Kingdom"
+        },
+        {
+            "code": "eu.gb.*.4612",
+            "description": "Newcastle upon Tyne, United Kingdom"
+        },
+        {
+            "code": "eu.gb.*.4614",
+            "description": "Northampton, United Kingdom"
+        },
+        {
+            "code": "eu.gb.*.4613",
+            "description": "Nottingham, United Kingdom"
+        },
+        {
+            "code": "eu.gb.*.4618",
+            "description": "Oxford, United Kingdom"
+        },
+        {
+            "code": "eu.gb.*.4623",
+            "description": "Portsmouth, United Kingdom"
+        },
+        {
+            "code": "eu.gb.*.4625",
+            "description": "Reading, United Kingdom"
+        },
+        {
+            "code": "eu.gb.*.4626",
+            "description": "Redhill, United Kingdom"
+        },
+        {
+            "code": "eu.gb.*.4628",
+            "description": "Sheffield, United Kingdom"
+        },
+        {
+            "code": "eu.gb.*.4632",
+            "description": "Slough, United Kingdom"
+        },
+        {
+            "code": "eu.gb.*.4635",
+            "description": "Southampton, United Kingdom"
+        },
+        {
+            "code": "eu.gb.*.4644",
+            "description": "Tonbridge, United Kingdom"
+        },
+        {
+            "code": "eu.gb.*.4648",
+            "description": "Twickenham, United Kingdom"
+        },
+        {
+            "code": "la",
+            "description": "Latin America"
+        },
+        {
+            "code": "la.ar",
+            "description": "Argentina"
+        },
+        {
+            "code": "la.bo",
+            "description": "Bolivia"
+        },
+        {
+            "code": "la.br",
+            "description": "Brazil"
+        },
+        {
+            "code": "la.br.ac",
+            "description": "Acre"
+        },
+        {
+            "code": "la.br.al",
+            "description": "Alagoas"
+        },
+        {
+            "code": "la.br.ap",
+            "description": "Amap\u00e1"
+        },
+        {
+            "code": "la.br.am",
+            "description": "Amazonas"
+        },
+        {
+            "code": "la.br.ba",
+            "description": "Bahia"
+        },
+        {
+            "code": "la.br.ce",
+            "description": "Cear\u00e1"
+        },
+        {
+            "code": "la.br.df",
+            "description": "Distrito Federal"
+        },
+        {
+            "code": "la.br.es",
+            "description": "Esp\u00edrito Santo"
+        },
+        {
+            "code": "la.br.go",
+            "description": "Goi\u00e1s"
+        },
+        {
+            "code": "la.br.ma",
+            "description": "Maranh\u00e3o"
+        },
+        {
+            "code": "la.br.mt",
+            "description": "Mato Grosso"
+        },
+        {
+            "code": "la.br.ms",
+            "description": "Mato Grosso do Sul"
+        },
+        {
+            "code": "la.br.mg",
+            "description": "Minas Gerais"
+        },
+        {
+            "code": "la.br.mg.6156",
+            "description": "Belo Horizonte Area, Brazil"
+        },
+        {
+            "code": "la.br.pr",
+            "description": "Paran\u00e1"
+        },
+        {
+            "code": "la.br.pr.6399",
+            "description": "Curitiba Area, Brazil"
+        },
+        {
+            "code": "la.br.pb",
+            "description": "Para\u00edba"
+        },
+        {
+            "code": "la.br.pa",
+            "description": "Par\u00e1"
+        },
+        {
+            "code": "la.br.pe",
+            "description": "Pernambuco"
+        },
+        {
+            "code": "la.br.pi",
+            "description": "Piau\u00ed"
+        },
+        {
+            "code": "la.br.rn",
+            "description": "Rio Grande do Norte"
+        },
+        {
+            "code": "la.br.rs",
+            "description": "Rio Grande do Sul"
+        },
+        {
+            "code": "la.br.rs.6467",
+            "description": "Porto Alegre Area, Brazil"
+        },
+        {
+            "code": "la.br.rj",
+            "description": "Rio de Janeiro"
+        },
+        {
+            "code": "la.br.rj.6034",
+            "description": "Rio de Janeiro Area, Brazil"
+        },
+        {
+            "code": "la.br.ro",
+            "description": "Rond\u00f4nia"
+        },
+        {
+            "code": "la.br.rr",
+            "description": "Roraima"
+        },
+        {
+            "code": "la.br.sc",
+            "description": "Santa Catarina"
+        },
+        {
+            "code": "la.br.se",
+            "description": "Sergipe"
+        },
+        {
+            "code": "la.br.sp",
+            "description": "S\u00e3o Paulo"
+        },
+        {
+            "code": "la.br.sp.6104",
+            "description": "Campinas Area, Brazil"
+        },
+        {
+            "code": "la.br.sp.6368",
+            "description": "S\u00e3o Paulo Area, Brazil"
+        },
+        {
+            "code": "la.br.to",
+            "description": "Tocantins"
+        },
+        {
+            "code": "la.cl",
+            "description": "Chile"
+        },
+        {
+            "code": "la.co",
+            "description": "Colombia"
+        },
+        {
+            "code": "la.cr",
+            "description": "Costa Rica"
+        },
+        {
+            "code": "la.do",
+            "description": "Dominican Republic"
+        },
+        {
+            "code": "la.ec",
+            "description": "Ecuador"
+        },
+        {
+            "code": "la.gt",
+            "description": "Guatemala"
+        },
+        {
+            "code": "la.mx",
+            "description": "Mexico"
+        },
+        {
+            "code": "la.mx.*.5921",
+            "description": "Mexico City Area, Mexico"
+        },
+        {
+            "code": "la.mx.*.5955",
+            "description": "Naucalpan de Ju\u00e1rez Area, Mexico"
+        },
+        {
+            "code": "la.pa",
+            "description": "Panama"
+        },
+        {
+            "code": "la.pe",
+            "description": "Peru"
+        },
+        {
+            "code": "la.pr",
+            "description": "Puerto Rico"
+        },
+        {
+            "code": "la.tt",
+            "description": "Trinidad and Tobago"
+        },
+        {
+            "code": "la.uy",
+            "description": "Uruguay"
+        },
+        {
+            "code": "la.ve",
+            "description": "Venezuela"
+        },
+        {
+            "code": "me",
+            "description": "Middle East"
+        },
+        {
+            "code": "me.bh",
+            "description": "Bahrain"
+        },
+        {
+            "code": "me.il",
+            "description": "Israel"
+        },
+        {
+            "code": "me.jo",
+            "description": "Jordan"
+        },
+        {
+            "code": "me.kw",
+            "description": "Kuwait"
+        },
+        {
+            "code": "me.pk",
+            "description": "Pakistan"
+        },
+        {
+            "code": "me.qa",
+            "description": "Qatar"
+        },
+        {
+            "code": "me.sa",
+            "description": "Saudi Arabia"
+        },
+        {
+            "code": "me.ae",
+            "description": "United Arab Emirates"
+        },
+        {
+            "code": "na",
+            "description": "North America"
+        },
+        {
+            "code": "na.ca",
+            "description": "Canada"
+        },
+        {
+            "code": "na.ca.ab",
+            "description": "Alberta"
+        },
+        {
+            "code": "na.ca.ab.4882",
+            "description": "Calgary, Canada Area"
+        },
+        {
+            "code": "na.ca.ab.4872",
+            "description": "Edmonton, Canada Area"
+        },
+        {
+            "code": "na.ca.bc",
+            "description": "British Columbia"
+        },
+        {
+            "code": "na.ca.bc.4873",
+            "description": "British Columbia, Canada"
+        },
+        {
+            "code": "na.ca.bc.4880",
+            "description": "Vancouver, Canada Area"
+        },
+        {
+            "code": "na.ca.mb",
+            "description": "Manitoba"
+        },
+        {
+            "code": "na.ca.nb",
+            "description": "New Brunswick"
+        },
+        {
+            "code": "na.ca.nl",
+            "description": "Newfoundland And Labrador"
+        },
+        {
+            "code": "na.ca.nt",
+            "description": "Northwest Territories"
+        },
+        {
+            "code": "na.ca.ns",
+            "description": "Nova Scotia"
+        },
+        {
+            "code": "na.ca.ns.4874",
+            "description": "Halifax, Canada Area"
+        },
+        {
+            "code": "na.ca.nu",
+            "description": "Nunavut"
+        },
+        {
+            "code": "na.ca.on",
+            "description": "Ontario"
+        },
+        {
+            "code": "na.ca.on.4865",
+            "description": "Kitchener, Canada Area"
+        },
+        {
+            "code": "na.ca.on.4869",
+            "description": "London, Canada Area"
+        },
+        {
+            "code": "na.ca.on.4864",
+            "description": "Ontario, Canada"
+        },
+        {
+            "code": "na.ca.on.4876",
+            "description": "Toronto, Canada Area"
+        },
+        {
+            "code": "na.ca.pe",
+            "description": "Prince Edward Island"
+        },
+        {
+            "code": "na.ca.qc",
+            "description": "Quebec"
+        },
+        {
+            "code": "na.ca.qc.4863",
+            "description": "Montreal, Canada Area"
+        },
+        {
+            "code": "na.ca.qc.4884",
+            "description": "Ottawa, Canada Area"
+        },
+        {
+            "code": "na.ca.qc.4875",
+            "description": "Quebec, Canada"
+        },
+        {
+            "code": "na.ca.qc.4866",
+            "description": "Winnipeg, Canada Area"
+        },
+        {
+            "code": "na.ca.sk",
+            "description": "Saskatchewan"
+        },
+        {
+            "code": "na.ca.yt",
+            "description": "Yukon"
+        },
+        {
+            "code": "na.us",
+            "description": "United States"
+        },
+        {
+            "code": "na.us.al",
+            "description": "Alabama"
+        },
+        {
+            "code": "na.us.al.100",
+            "description": "Birmingham, Alabama Area"
+        },
+        {
+            "code": "na.us.ak",
+            "description": "Alaska"
+        },
+        {
+            "code": "na.us.ak.38",
+            "description": "Anchorage, Alaska Area"
+        },
+        {
+            "code": "na.us.az",
+            "description": "Arizona"
+        },
+        {
+            "code": "na.us.az.620",
+            "description": "Phoenix, Arizona Area"
+        },
+        {
+            "code": "na.us.az.852",
+            "description": "Tucson, Arizona Area"
+        },
+        {
+            "code": "na.us.ar",
+            "description": "Arkansas"
+        },
+        {
+            "code": "na.us.ar.440",
+            "description": "Little Rock, Arkansas Area"
+        },
+        {
+            "code": "na.us.ca",
+            "description": "California"
+        },
+        {
+            "code": "na.us.ca.284",
+            "description": "Fresno, California Area"
+        },
+        {
+            "code": "na.us.ca.49",
+            "description": "Greater Los Angeles Area"
+        },
+        {
+            "code": "na.us.ca.732",
+            "description": "Greater San Diego Area"
+        },
+        {
+            "code": "na.us.ca.51",
+            "description": "Orange County, California Area"
+        },
+        {
+            "code": "na.us.ca.82",
+            "description": "Sacramento, California Area"
+        },
+        {
+            "code": "na.us.ca.712",
+            "description": "Salinas, California Area"
+        },
+        {
+            "code": "na.us.ca.84",
+            "description": "San Francisco Bay Area"
+        },
+        {
+            "code": "na.us.ca.748",
+            "description": "Santa Barbara, California Area"
+        },
+        {
+            "code": "na.us.ca.812",
+            "description": "Stockton, California Area"
+        },
+        {
+            "code": "na.us.co",
+            "description": "Colorado"
+        },
+        {
+            "code": "na.us.co.172",
+            "description": "Colorado Springs, Colorado Area"
+        },
+        {
+            "code": "na.us.co.267",
+            "description": "Fort Collins, Colorado Area"
+        },
+        {
+            "code": "na.us.co.34",
+            "description": "Greater Denver Area"
+        },
+        {
+            "code": "na.us.ct",
+            "description": "Connecticut"
+        },
+        {
+            "code": "na.us.ct.327",
+            "description": "Hartford, Connecticut Area"
+        },
+        {
+            "code": "na.us.ct.552",
+            "description": "New London/Norwich, Connecticut Area"
+        },
+        {
+            "code": "na.us.de",
+            "description": "Delaware"
+        },
+        {
+            "code": "na.us.dc",
+            "description": "District Of Columbia"
+        },
+        {
+            "code": "na.us.dc.97",
+            "description": "Washington D.C. Metro Area"
+        },
+        {
+            "code": "na.us.fl",
+            "description": "Florida"
+        },
+        {
+            "code": "na.us.fl.202",
+            "description": "Daytona Beach, Florida Area"
+        },
+        {
+            "code": "na.us.fl.270",
+            "description": "Fort Myers, Florida Area"
+        },
+        {
+            "code": "na.us.fl.271",
+            "description": "Fort Pierce, Florida Area"
+        },
+        {
+            "code": "na.us.fl.290",
+            "description": "Gainesville, Florida Area"
+        },
+        {
+            "code": "na.us.fl.398",
+            "description": "Lakeland, Florida Area"
+        },
+        {
+            "code": "na.us.fl.490",
+            "description": "Melbourne, Florida Area"
+        },
+        {
+            "code": "na.us.fl.56",
+            "description": "Miami/Fort Lauderdale Area"
+        },
+        {
+            "code": "na.us.fl.596",
+            "description": "Orlando, Florida Area"
+        },
+        {
+            "code": "na.us.fl.751",
+            "description": "Sarasota, Florida Area"
+        },
+        {
+            "code": "na.us.fl.828",
+            "description": "Tampa/St. Petersburg, Florida Area"
+        },
+        {
+            "code": "na.us.fl.896",
+            "description": "West Palm Beach, Florida Area"
+        },
+        {
+            "code": "na.us.ga",
+            "description": "Georgia"
+        },
+        {
+            "code": "na.us.ga.52",
+            "description": "Greater Atlanta Area"
+        },
+        {
+            "code": "na.us.ga.359",
+            "description": "Jacksonville, Florida Area"
+        },
+        {
+            "code": "na.us.ga.824",
+            "description": "Tallahassee, Florida Area"
+        },
+        {
+            "code": "na.us.hi",
+            "description": "Hawaii"
+        },
+        {
+            "code": "na.us.hi.332",
+            "description": "Hawaiian Islands"
+        },
+        {
+            "code": "na.us.id",
+            "description": "Idaho"
+        },
+        {
+            "code": "na.us.id.108",
+            "description": "Boise, Idaho Area"
+        },
+        {
+            "code": "na.us.il",
+            "description": "Illinois"
+        },
+        {
+            "code": "na.us.il.14",
+            "description": "Greater Chicago Area"
+        },
+        {
+            "code": "na.us.il.612",
+            "description": "Peoria, Illinois Area"
+        },
+        {
+            "code": "na.us.il.140",
+            "description": "Urbana-Champaign, Illinois Area"
+        },
+        {
+            "code": "na.us.in",
+            "description": "Indiana"
+        },
+        {
+            "code": "na.us.in.244",
+            "description": "Evansville, Indiana Area"
+        },
+        {
+            "code": "na.us.in.348",
+            "description": "Indianapolis, Indiana Area"
+        },
+        {
+            "code": "na.us.ia",
+            "description": "Iowa"
+        },
+        {
+            "code": "na.us.ks",
+            "description": "Kansas"
+        },
+        {
+            "code": "na.us.ks.904",
+            "description": "Wichita, Kansas Area"
+        },
+        {
+            "code": "na.us.ky",
+            "description": "Kentucky"
+        },
+        {
+            "code": "na.us.ky.428",
+            "description": "Lexington, Kentucky Area"
+        },
+        {
+            "code": "na.us.ky.452",
+            "description": "Louisville, Kentucky Area"
+        },
+        {
+            "code": "na.us.la",
+            "description": "Louisiana"
+        },
+        {
+            "code": "na.us.me",
+            "description": "Maine"
+        },
+        {
+            "code": "na.us.me.640",
+            "description": "Portland, Maine Area"
+        },
+        {
+            "code": "na.us.md",
+            "description": "Maryland"
+        },
+        {
+            "code": "na.us.md.7416",
+            "description": "Baltimore, Maryland Area"
+        },
+        {
+            "code": "na.us.ma",
+            "description": "Massachusetts"
+        },
+        {
+            "code": "na.us.ma.7",
+            "description": "Greater Boston Area"
+        },
+        {
+            "code": "na.us.mi",
+            "description": "Michigan"
+        },
+        {
+            "code": "na.us.mi.276",
+            "description": "Fort Wayne, Indiana Area"
+        },
+        {
+            "code": "na.us.mi.35",
+            "description": "Greater Detroit Area"
+        },
+        {
+            "code": "na.us.mi.300",
+            "description": "Greater Grand Rapids, Michigan Area"
+        },
+        {
+            "code": "na.us.mi.372",
+            "description": "Kalamazoo, Michigan Area"
+        },
+        {
+            "code": "na.us.mi.404",
+            "description": "Lansing, Michigan Area"
+        },
+        {
+            "code": "na.us.mi.696",
+            "description": "Saginaw, Michigan Area"
+        },
+        {
+            "code": "na.us.mn",
+            "description": "Minnesota"
+        },
+        {
+            "code": "na.us.mn.512",
+            "description": "Greater Minneapolis-St. Paul Area"
+        },
+        {
+            "code": "na.us.ms",
+            "description": "Mississippi"
+        },
+        {
+            "code": "na.us.ms.76",
+            "description": "Baton Rouge, Louisiana Area"
+        },
+        {
+            "code": "na.us.ms.556",
+            "description": "Greater New Orleans Area"
+        },
+        {
+            "code": "na.us.ms.356",
+            "description": "Jackson, Mississippi Area"
+        },
+        {
+            "code": "na.us.ms.516",
+            "description": "Mobile, Alabama Area"
+        },
+        {
+            "code": "na.us.mo",
+            "description": "Missouri"
+        },
+        {
+            "code": "na.us.mo.174",
+            "description": "Columbia, Missouri Area"
+        },
+        {
+            "code": "na.us.mo.196",
+            "description": "Davenport, Iowa Area"
+        },
+        {
+            "code": "na.us.mo.212",
+            "description": "Des Moines, Iowa Area"
+        },
+        {
+            "code": "na.us.mo.258",
+            "description": "Fayetteville, Arkansas Area"
+        },
+        {
+            "code": "na.us.mo.704",
+            "description": "Greater St. Louis Area"
+        },
+        {
+            "code": "na.us.mo.376",
+            "description": "Kansas City, Missouri Area"
+        },
+        {
+            "code": "na.us.mo.792",
+            "description": "Springfield, Missouri Area"
+        },
+        {
+            "code": "na.us.mt",
+            "description": "Montana"
+        },
+        {
+            "code": "na.us.ne",
+            "description": "Nebraska"
+        },
+        {
+            "code": "na.us.ne.592",
+            "description": "Greater Omaha Area"
+        },
+        {
+            "code": "na.us.ne.436",
+            "description": "Lincoln, Nebraska Area"
+        },
+        {
+            "code": "na.us.nv",
+            "description": "Nevada"
+        },
+        {
+            "code": "na.us.nv.412",
+            "description": "Las Vegas, Nevada Area"
+        },
+        {
+            "code": "na.us.nv.672",
+            "description": "Reno, Nevada Area"
+        },
+        {
+            "code": "na.us.nh",
+            "description": "New Hampshire"
+        },
+        {
+            "code": "na.us.nj",
+            "description": "New Jersey"
+        },
+        {
+            "code": "na.us.nm",
+            "description": "New Mexico"
+        },
+        {
+            "code": "na.us.nm.20",
+            "description": "Albuquerque, New Mexico Area"
+        },
+        {
+            "code": "na.us.ny",
+            "description": "New York"
+        },
+        {
+            "code": "na.us.ny.16",
+            "description": "Albany, New York Area"
+        },
+        {
+            "code": "na.us.ny.128",
+            "description": "Buffalo/Niagara, New York Area"
+        },
+        {
+            "code": "na.us.ny.70",
+            "description": "Greater New York City Area"
+        },
+        {
+            "code": "na.us.ny.684",
+            "description": "Rochester, New York Area"
+        },
+        {
+            "code": "na.us.ny.816",
+            "description": "Syracuse, New York Area"
+        },
+        {
+            "code": "na.us.nc",
+            "description": "North Carolina"
+        },
+        {
+            "code": "na.us.nc.152",
+            "description": "Charlotte, North Carolina Area"
+        },
+        {
+            "code": "na.us.nc.664",
+            "description": "Raleigh-Durham, North Carolina Area"
+        },
+        {
+            "code": "na.us.nc.920",
+            "description": "Wilmington, North Carolina Area"
+        },
+        {
+            "code": "na.us.nd",
+            "description": "North Dakota"
+        },
+        {
+            "code": "na.us.oh",
+            "description": "Ohio"
+        },
+        {
+            "code": "na.us.oh.21",
+            "description": "Cincinnati Area"
+        },
+        {
+            "code": "na.us.oh.28",
+            "description": "Cleveland/Akron, Ohio Area"
+        },
+        {
+            "code": "na.us.oh.184",
+            "description": "Columbus, Ohio Area"
+        },
+        {
+            "code": "na.us.oh.200",
+            "description": "Dayton, Ohio Area"
+        },
+        {
+            "code": "na.us.oh.840",
+            "description": "Toledo, Ohio Area"
+        },
+        {
+            "code": "na.us.ok",
+            "description": "Oklahoma"
+        },
+        {
+            "code": "na.us.ok.588",
+            "description": "Oklahoma City, Oklahoma Area"
+        },
+        {
+            "code": "na.us.ok.856",
+            "description": "Tulsa, Oklahoma Area"
+        },
+        {
+            "code": "na.us.or",
+            "description": "Oregon"
+        },
+        {
+            "code": "na.us.or.240",
+            "description": "Eugene, Oregon Area"
+        },
+        {
+            "code": "na.us.or.79",
+            "description": "Portland, Oregon Area"
+        },
+        {
+            "code": "na.us.pa",
+            "description": "Pennsylvania"
+        },
+        {
+            "code": "na.us.pa.24",
+            "description": "Allentown, Pennsylvania Area"
+        },
+        {
+            "code": "na.us.pa.77",
+            "description": "Greater Philadelphia Area"
+        },
+        {
+            "code": "na.us.pa.628",
+            "description": "Greater Pittsburgh Area"
+        },
+        {
+            "code": "na.us.pa.324",
+            "description": "Harrisburg, Pennsylvania Area"
+        },
+        {
+            "code": "na.us.pa.96",
+            "description": "Ithaca, New York Area"
+        },
+        {
+            "code": "na.us.pa.400",
+            "description": "Lancaster, Pennsylvania Area"
+        },
+        {
+            "code": "na.us.pa.756",
+            "description": "Scranton, Pennsylvania Area"
+        },
+        {
+            "code": "na.us.ri",
+            "description": "Rhode Island"
+        },
+        {
+            "code": "na.us.ri.648",
+            "description": "Providence, Rhode Island Area"
+        },
+        {
+            "code": "na.us.sc",
+            "description": "South Carolina"
+        },
+        {
+            "code": "na.us.sc.60",
+            "description": "Augusta, Georgia Area"
+        },
+        {
+            "code": "na.us.sc.144",
+            "description": "Charleston, South Carolina Area"
+        },
+        {
+            "code": "na.us.sc.176",
+            "description": "Columbia, South Carolina Area"
+        },
+        {
+            "code": "na.us.sc.316",
+            "description": "Greenville, South Carolina Area"
+        },
+        {
+            "code": "na.us.sc.752",
+            "description": "Savannah, Georgia Area"
+        },
+        {
+            "code": "na.us.sd",
+            "description": "South Dakota"
+        },
+        {
+            "code": "na.us.sd.776",
+            "description": "Sioux Falls, South Dakota Area"
+        },
+        {
+            "code": "na.us.tn",
+            "description": "Tennessee"
+        },
+        {
+            "code": "na.us.tn.48",
+            "description": "Asheville, North Carolina Area"
+        },
+        {
+            "code": "na.us.tn.156",
+            "description": "Chattanooga, Tennessee Area"
+        },
+        {
+            "code": "na.us.tn.492",
+            "description": "Greater Memphis Area"
+        },
+        {
+            "code": "na.us.tn.536",
+            "description": "Greater Nashville Area"
+        },
+        {
+            "code": "na.us.tn.344",
+            "description": "Huntsville, Alabama Area"
+        },
+        {
+            "code": "na.us.tn.366",
+            "description": "Johnson City, Tennessee Area"
+        },
+        {
+            "code": "na.us.tn.384",
+            "description": "Knoxville, Tennessee Area"
+        },
+        {
+            "code": "na.us.tx",
+            "description": "Texas"
+        },
+        {
+            "code": "na.us.tx.64",
+            "description": "Austin, Texas Area"
+        },
+        {
+            "code": "na.us.tx.31",
+            "description": "Dallas/Fort Worth Area"
+        },
+        {
+            "code": "na.us.tx.232",
+            "description": "El Paso, Texas Area"
+        },
+        {
+            "code": "na.us.tx.42",
+            "description": "Houston, Texas Area"
+        },
+        {
+            "code": "na.us.tx.724",
+            "description": "San Antonio, Texas Area"
+        },
+        {
+            "code": "na.us.ut",
+            "description": "Utah"
+        },
+        {
+            "code": "na.us.ut.716",
+            "description": "Greater Salt Lake City Area"
+        },
+        {
+            "code": "na.us.ut.652",
+            "description": "Provo, Utah Area"
+        },
+        {
+            "code": "na.us.vt",
+            "description": "Vermont"
+        },
+        {
+            "code": "na.us.vt.130",
+            "description": "Burlington, Vermont Area"
+        },
+        {
+            "code": "na.us.vt.800",
+            "description": "Springfield, Massachusetts Area"
+        },
+        {
+            "code": "na.us.va",
+            "description": "Virginia"
+        },
+        {
+            "code": "na.us.va.154",
+            "description": "Charlottesville, Virginia Area"
+        },
+        {
+            "code": "na.us.va.312",
+            "description": "Greensboro/Winston-Salem, North Carolina Area"
+        },
+        {
+            "code": "na.us.va.572",
+            "description": "Norfolk, Virginia Area"
+        },
+        {
+            "code": "na.us.va.676",
+            "description": "Richmond, Virginia Area"
+        },
+        {
+            "code": "na.us.va.680",
+            "description": "Roanoke, Virginia Area"
+        },
+        {
+            "code": "na.us.wa",
+            "description": "Washington"
+        },
+        {
+            "code": "na.us.wa.91",
+            "description": "Greater Seattle Area"
+        },
+        {
+            "code": "na.us.wa.784",
+            "description": "Spokane, Washington Area"
+        },
+        {
+            "code": "na.us.wv",
+            "description": "West Virginia"
+        },
+        {
+            "code": "na.us.wi",
+            "description": "Wisconsin"
+        },
+        {
+            "code": "na.us.wi.63",
+            "description": "Greater Milwaukee Area"
+        },
+        {
+            "code": "na.us.wi.308",
+            "description": "Green Bay, Wisconsin Area"
+        },
+        {
+            "code": "na.us.wi.472",
+            "description": "Madison, Wisconsin Area"
+        },
+        {
+            "code": "na.us.wi.46",
+            "description": "Oshkosh, Wisconsin Area"
+        },
+        {
+            "code": "na.us.wi.688",
+            "description": "Rockford, Illinois Area"
+        },
+        {
+            "code": "na.us.wy",
+            "description": "Wyoming"
+        },
+        {
+            "code": "oc",
+            "description": "Oceania"
+        },
+        {
+            "code": "oc.au",
+            "description": "Australia"
+        },
+        {
+            "code": "oc.au.*.4886",
+            "description": "Adelaide Area, Australia"
+        },
+        {
+            "code": "oc.au.*.4909",
+            "description": "Brisbane Area, Australia"
+        },
+        {
+            "code": "oc.au.*.4893",
+            "description": "Canberra Area, Australia"
+        },
+        {
+            "code": "oc.au.*.4900",
+            "description": "Melbourne Area, Australia"
+        },
+        {
+            "code": "oc.au.*.4905",
+            "description": "Perth Area, Australia"
+        },
+        {
+            "code": "oc.au.*.4910",
+            "description": "Sydney Area, Australia"
+        },
+        {
+            "code": "oc.nz",
+            "description": "New Zealand"
+        }
+    ]
+}
